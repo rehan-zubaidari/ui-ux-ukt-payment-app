@@ -19,8 +19,8 @@ and transaction history.
 [View Full Design on Figma]([https://www.figma.com/design/AMMHRpiyA7dArHlCUfz3k1/UKT-APP-Mobile?node-id=0-1&t=U6LkA9wpgv20RlXg-1])
 
 ## Screenshots
-![Login](login.png)
+![Login](Login.png)
 ![UKT Category](Home.png)
-![Payment](PaySPP.png)
-![Transaction History](transaction-history.png)
-![Profile](profile.png)
+![Payment](Pay-SPP.png)
+![Transaction History](Transactionhistory.png)
+![Profile](Profile.png)
