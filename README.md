@@ -16,7 +16,7 @@ and transaction history.
 - Figma
 
 ## Design Preview
-[View Full Design on Figma]([https://www.figma.com/design/AMMHRpiyA7dArHlCUfz3k1/UKT-APP-Mobile?node-id=0-1&t=U6LkA9wpgv20RlXg-1])
+[View Full Design on Figma](https://www.figma.com/design/AMMHRpiyA7dArHlCUfz3k1/UKT-APP-Mobile?node-id=0-1&t=U6LkA9wpgv20RlXg-1)
 
 ## Screenshots
 ![Login](Login.png)
