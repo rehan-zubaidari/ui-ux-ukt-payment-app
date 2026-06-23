@@ -21,6 +21,6 @@ and transaction history.
 ## Screenshots
 ![Login](Login.png)
 ![UKT Category](Home.png)
-![Payment](PaySPP.png)
+![Payment](Pay-SPP.png)
 ![Transaction History](Transactionhistory.png)
 ![Profile](Profile.png)
